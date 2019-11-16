@@ -1,4 +1,4 @@
-### 本文摘自 [github](https://github.com/calebman/spring-boot-example) 仅做学习交流，不做商业用途
+### 本文摘自 [github]https://github.com/calebman/spring-boot-example 仅做学习交流，不做商业用途
 ### 本文简介
 - 为什么使用SpringBoot
 - 搭建怎样一个环境
